@@ -4,3 +4,7 @@ covid19_data.csv
 covid19_data.pdf
 covid19_district_data.json
 __pycache__/
+previous_data.json
+aws_key_config.json
+covid-india-states-data.json
+covid-india-stats.json
