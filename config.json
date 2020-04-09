@@ -1,0 +1,7 @@
+{
+    "covid19_data_link" : "https://www.mohfw.gov.in/pdf/DistrictWiseList324.pdf",
+    "pdf_data_file_name" : "covid19_data.pdf",
+    "csv_data_file_name" : "covid19_data.csv",
+    "json_data_file_name" : "covid19_district_data.json",
+    "aws_bucket_name" : "covid19-india-datasets"
+}

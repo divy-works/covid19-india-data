@@ -1,0 +1,6 @@
+venv
+.vscode
+covid19_data.csv
+covid19_data.pdf
+covid19_district_data.json
+__pycache__/
